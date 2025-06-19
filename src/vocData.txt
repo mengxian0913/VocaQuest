@@ -1,0 +1,6 @@
+apple 蘋果
+banana 香蕉
+history 歷史
+human 人類
+probably 可能
+vocabulary 詞彙
